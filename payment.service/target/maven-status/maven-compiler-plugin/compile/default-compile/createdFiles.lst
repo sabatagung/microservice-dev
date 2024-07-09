@@ -1,0 +1,3 @@
+com\ags\payment\service\configuration\DatabaseInitializerConfig.class
+com\ags\payment\service\Application.class
+com\ags\payment\service\model\Payment.class
