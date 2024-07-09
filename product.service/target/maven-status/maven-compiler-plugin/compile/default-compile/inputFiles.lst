@@ -1,0 +1,17 @@
+D:\Zfinalv2\product.service\src\main\java\com\ags\product\service\Application.java
+D:\Zfinalv2\product.service\src\main\java\com\ags\product\service\config\DatabaseInitializerConfig.java
+D:\Zfinalv2\product.service\src\main\java\com\ags\product\service\controller\ProductController.java
+D:\Zfinalv2\product.service\src\main\java\com\ags\product\service\dto1\ProductReqDTO.java
+D:\Zfinalv2\product.service\src\main\java\com\ags\product\service\dto1\ProductResponseDTO.java
+D:\Zfinalv2\product.service\src\main\java\com\ags\product\service\dto1\ProductUpdatedDTO.java
+D:\Zfinalv2\product.service\src\main\java\com\ags\product\service\dto\ProductDTO.java
+D:\Zfinalv2\product.service\src\main\java\com\ags\product\service\dto\ProductRequestDTO.java
+D:\Zfinalv2\product.service\src\main\java\com\ags\product\service\exception\ErrorResponse.java
+D:\Zfinalv2\product.service\src\main\java\com\ags\product\service\exception\GlobalExceptionHandler.java
+D:\Zfinalv2\product.service\src\main\java\com\ags\product\service\exception\InsufficientStockException.java
+D:\Zfinalv2\product.service\src\main\java\com\ags\product\service\exception\ProductNotFoundException.java
+D:\Zfinalv2\product.service\src\main\java\com\ags\product\service\model\Product.java
+D:\Zfinalv2\product.service\src\main\java\com\ags\product\service\repository\ProductRepository.java
+D:\Zfinalv2\product.service\src\main\java\com\ags\product\service\service\ProductService.java
+D:\Zfinalv2\product.service\src\main\java\com\ags\product\service\status\InventoryStatus.java
+D:\Zfinalv2\product.service\src\main\java\com\ags\product\service\utils\ProductMapper.java

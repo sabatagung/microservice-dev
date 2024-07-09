@@ -1,0 +1,10 @@
+com\ags\product\service\controller\ProductController.class
+com\ags\product\service\service\ProductService.class
+com\ags\product\service\model\Product$ProductBuilder.class
+com\ags\product\service\repository\ProductRepository.class
+com\ags\product\service\Application.class
+com\ags\product\service\model\Product.class
+com\ags\product\service\exception\ProductNotFoundException.class
+com\ags\product\service\exception\ErrorResponse.class
+com\ags\product\service\exception\GlobalExceptionHandler.class
+com\ags\product\service\exception\InsufficientStockException.class
