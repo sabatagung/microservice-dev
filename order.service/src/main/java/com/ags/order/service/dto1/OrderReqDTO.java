@@ -1,0 +1,24 @@
+package com.ags.order.service.dto1;
+
+import com.ags.order.service.model.OrderItem;
+import com.ags.order.service.status.OrderStatus;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import java.time.LocalDate;
+import java.util.List;
+
+@Data
+@Builder
+@AllArgsConstructor
+@NoArgsConstructor
+public class OrderReqDTO {
+    private Long customer_id;
+    private LocalDate order_date;
+    private String payment_method;
+    private String billing_address;
+    private String shipping_address;
+    List<OrderItemReqDTO> orderItems;
+}
